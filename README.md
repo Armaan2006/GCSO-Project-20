@@ -1,2 +1,2 @@
-# GCSO-Project-20
-Making car hit wall with different speed and color
+# p5.play-boilerplate
+Boiler plate for p5.play
